@@ -1,0 +1,17 @@
+.video-section{
+  padding:100px 8%;
+  text-align:center;
+  background:#faf8f4;
+}
+
+.video-section h2{
+  font-size:3rem;
+  margin-bottom:40px;
+}
+
+.video-section video{
+  width:100%;
+  max-width:1100px;
+  border-radius:20px;
+  box-shadow:0 15px 35px rgba(0,0,0,.15);
+}
